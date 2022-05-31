@@ -1,4 +1,4 @@
-### hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Fagan
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Fagan
 
 <p>I'm currently a software engineer at <strong><a href="https://www.technofusion.az">Technofusion</a></strong> and I am also CTO of the startup that is called <strong><a href="https://www.tutor.az">Tutor.az.</a></strong> I am working on some side projects, learning a couple new tech stacks.</p>
 
@@ -13,6 +13,7 @@
 </a>
 </p>
 
+</br>
 
 ### Tools & Techs
 
